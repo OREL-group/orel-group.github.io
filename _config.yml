@@ -57,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jesse Parent"
+  name   : "Orthogonal Research and Education Lab"
   avatar : "/assets/images/bio-photo.jpg"
-#  bio    : "research homepage"
+#  bio    : "Research Dashboard"
 #  links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
