@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   nav: "docs"
 
----
+---  
 
 **Jesse Parent**
 - Strategic Initiatives @ StateOfTheArt AI
