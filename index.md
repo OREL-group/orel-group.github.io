@@ -21,7 +21,7 @@ sidebar:
 - [03-21](https://www.sciencedirect.com/science/article/abs/pii/S0303264721000629) "Periodicity in the Embryo" accepted for publication in Biosystems 204 in June
 
 2020
-- [12-11](https://medium.com/orel-group/observer-dependent-models-a-talk-at-the-philosophers-web-cafe-4c503cd47778) Host Bradly Alcea and Moderator Jesse Parent at "Observer-Dependent Models" (B. Alicea) talk at Philosopher's Web Café
+- [12-11](https://medium.com/orel-group/observer-dependent-models-a-talk-at-the-philosophers-web-cafe-4c503cd47778) Presentation by Bradly Alicea and Moderator Jesse Parent in "Observer-Dependent Models" talk at Philosopher's Web Café
 - 12-06 Attending & Volunteering at NeurIPS 2020; attended MAIN2020
 - [10-29](https://www.albany.edu/undergrad-research/assets/October%202020%20Newsletter.pdf) Jesse Parent at Alumni Panel for Undergraduate Research at UAlbany and featured in CURCE Newsletter
 - 10-01 Greenlight to lead "Cognition Futures" research team within OREL
