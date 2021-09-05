@@ -15,40 +15,27 @@ main:
 
 #SIDEBAR CUSTOM start 
 docs:
-  - title: Research
-    children:
-      - title: "C.V."
-        url: /cv/
-      - title: "Research Portfolio"
-        url: https://www.researchgate.net/profile/Jesse_Parent2
-      #- title: "Medium.com"
-       # url: https://medium.com/@JesseParent
-        
-  - title: Professional
-    children:
-      - title: "Speaking & Consulting"
-        url: /speaking/
  
-  - title: Groups and Openings
+  - title: OREL Websites
     children:
+      - title: "Orthogonal Research Lab Homepage"
+        url: https://orthogonal-research.weebly.com/       
       - title: "Cognition Futures"
         url: https://cognitionfutures.github.io
       - title: "SET Society Ethics Tech"
         url: /ethics/  
-      - title: "Orthogonal Research Lab Homepage"
-        url: https://orthogonal-research.weebly.com/    
       - title: "Research Opportunities"
         url: /join/    
 
   - title: Links
     children:
-      - title: "Google Scholar"
+     # - title: "Google Scholar"
         url: https://scholar.google.com/citations?hl=en&user=tSvD5eAAAAAJ
-      - title: "Research Gate"
-        url: https://www.researchgate.net/profile/Jesse_Parent2
+      - title: "Twitter"
+        url: https://twitter.com/Orthogonal_Lab
       - title: "LinkedIn"
-        url: https://www.linkedin.com/in/jesseparent
+        url: https://www.linkedin.com/company/orthogonal-rel/
       - title: "GitHub"
-        url: https://github.com/jesparent
+        url: https://github.com/orel-group
 
      
