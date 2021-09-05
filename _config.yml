@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jesse Parent - Research Homepage
-email: jesse@alumni.albany.edu
+title: Orthogonal Research and Education Lab
+email: bradly.alicea@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Research - Consulting - Speaking | developmental + hybrid AI, embodied intelligence, AI & tech ethics, human-computer interaction
-twitter_username: jesparent
-github_username: jesparent
+  Orthogonal Research and Education Lab (OREL) is a distributed collection of researchers committed to interdisciplinary research and Open Science, emphasizing awareness of underpinning philosophy within disciplines and societal impact of advances in AI and other technologies. With projects spanning computer science, cognitive science, and cognitive science & psychology, we foster collaboration and communication across diverse fields of study alongside development as researchers and science communicators. 
+twitter_username: Orthogonal_Lab
+github_username: OREL-group
 minimal_mistakes_skin: default #does this affect sidebar? TBD
 search: true
 
