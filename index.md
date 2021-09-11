@@ -7,9 +7,7 @@ sidebar:
 
 ---  
 
-**Orthogonal Research and Education Lab** (OREL) is a distributed collection of researchers committed to interdisciplinary research and Open Science, emphasizing awareness of underpinning philosophy within disciplines and societal impact of advances in AI and other technologies. With projects spanning computer science, cognitive science, and cognitive science & psychology, we foster collaboration and communication across diverse fields of study alongside development as researchers and science communicators. OREL is lea by [Dr. Bradly Alicea](http://bradly-alicea.weebly.com/) as Director of Science. 
-
-
+**Orthogonal Research and Education Lab** (OREL) is a distributed collection of investigators committed to interdisciplinary research and Open Science, emphasizing awareness of underpinning philosophy within disciplines and societal impact of advances in AI and other technologies. With projects spanning computer science, cognitive science, and cognitive science & psychology, we foster collaboration and communication across diverse fields of study alongside development as researchers educators, and science communicators. OREL is led by Director of Science [Dr. Bradly Alicea](http://bradly-alicea.weebly.com/). 
 
 #### Lab News 
 - 09-03 Website Landing page update is underway!
