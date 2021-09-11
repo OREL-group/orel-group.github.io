@@ -30,12 +30,12 @@ docs:
         url: https://data-reuse.weebly.com/       
         
         
-  - title: Our Team
+  - title: Our Team + Open Positions
     children:      
       - title: "Current Members & Alumni"
-        url: /join/    
+        url: https://orthogonal-research.weebly.com/current-members-and-alumni.html 
     
-      - title: "Get Involved - Join Us!"
+      - title: "Get Involved"
         url: /join/    
 
   - title: Links
