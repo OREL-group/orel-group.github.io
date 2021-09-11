@@ -18,12 +18,20 @@ docs:
  
   - title: OREL Websites
     children:
-      - title: "Orthogonal Research Lab Homepage"
+      - title: "OREL Homepage"
         url: https://orthogonal-research.weebly.com
-      - title: "Cognition Futures"
+      - title: "Representational Brains & Phenotypes"
+        url: https://representational-brains-phenotypes.weebly.com/       
+      - title: "- Cognition Futures"
         url: https://cognitionfutures.github.io
-      - title: "SET Society Ethics Tech"
+      - title: "- Society Ethics Technology"
         url: /ethics/  
+      - title: "Data Reuse Initiative"
+        url: https://data-reuse.weebly.com/       
+        
+        
+  - title: Get Involved
+    children:      
       - title: "Research Opportunities"
         url: /join/    
 
