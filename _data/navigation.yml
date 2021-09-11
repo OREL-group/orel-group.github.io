@@ -37,20 +37,15 @@ docs:
     children:      
       - title: "Current Members & Alumni"
         url: https://orthogonal-research.weebly.com/current-members-and-alumni.html 
-    
       - title: "Get Involved"
         url: /join/    
-
 
   - title: About OREL
     children:      
       - title: "Open Science"
         url: https://jesparent.notion.site/Open-Science-fe2335ac9b1a4b26b6af80a6ad38c5d1
-    
       - title: "Lab Vision"
         url: https://osf.io/preprints/metaarxiv/4k3z6/
-
-
 
   - title: Links
     children:
