@@ -16,23 +16,26 @@ main:
 #SIDEBAR CUSTOM start 
 docs:
  
-  - title: OREL Websites
+  - title: OREL Project Sites
     children:
       - title: "OREL Homepage"
         url: https://orthogonal-research.weebly.com
       - title: "Representational Brains & Phenotypes"
         url: https://representational-brains-phenotypes.weebly.com/       
-      - title: "- Cognition Futures"
+      - title: "Cognition Futures"
         url: https://cognitionfutures.github.io
-      - title: "- Society Ethics Technology"
+      - title: "AI, Ethics, and Society"
         url: /ethics/  
       - title: "Data Reuse Initiative"
         url: https://data-reuse.weebly.com/       
         
         
-  - title: Get Involved
+  - title: Our Team
     children:      
-      - title: "Research Opportunities"
+      - title: "Current Members & Alumni"
+        url: /join/    
+    
+      - title: "Get Involved - Join Us!"
         url: /join/    
 
   - title: Links
