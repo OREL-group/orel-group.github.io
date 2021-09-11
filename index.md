@@ -7,9 +7,11 @@ sidebar:
 
 ---  
 
-**Orthogonal Research and Education Lab**
+**Orthogonal Research and Education Lab** (OREL) is a distributed collection of researchers committed to interdisciplinary research and Open Science, emphasizing awareness of underpinning philosophy within disciplines and societal impact of advances in AI and other technologies. With projects spanning computer science, cognitive science, and cognitive science & psychology, we foster collaboration and communication across diverse fields of study alongside development as researchers and science communicators. OREL is lea by [Dr. Bradly Alicea](http://bradly-alicea.weebly.com/) as Director of Science. 
 
-#### News 
+
+
+#### Lab News 
 - 09-03 Website Landing page update is underway!
 - [07-28](https://cognitivesciencesociety.org/cogsci-affinity-discussion-groups/) OREL hosts Discussion Group at CogSci 2021 "Trajectories in Cognitive Science" - ft Jesse Parent, Bradly Alicea, and Avery Lim
  - 05-17 Congratualtions Jesse Parent and Avery Lim on being awarded Research Grants via Effective Altruism Learning and Research (Artificial Intelligence)
