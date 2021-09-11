@@ -21,7 +21,9 @@ docs:
       - title: "OREL Homepage"
         url: https://orthogonal-research.weebly.com
       - title: "Representational Brains & Phenotypes"
-        url: https://representational-brains-phenotypes.weebly.com/       
+        url: https://representational-brains-phenotypes.weebly.com/
+      - title: "Developmental AI"
+        url: https://jesparent.notion.site/Developmental-AI-562f92f911d9409395c4b5e896f0eb83
       - title: "Cognition Futures"
         url: https://cognitionfutures.github.io
       - title: "AI, Ethics, and Society"
@@ -31,9 +33,6 @@ docs:
       - title: "OpenWorm: DevoWorm"
         url: http://devoworm.weebly.com/          
         
-
-        
-        
   - title: Our Team + Open Positions
     children:      
       - title: "Current Members & Alumni"
@@ -41,6 +40,17 @@ docs:
     
       - title: "Get Involved"
         url: /join/    
+
+
+  - title: About OREL
+    children:      
+      - title: "Open Science"
+        url: https://jesparent.notion.site/Open-Science-fe2335ac9b1a4b26b6af80a6ad38c5d1
+    
+      - title: "Lab Vision"
+        url: https://osf.io/preprints/metaarxiv/4k3z6/
+
+
 
   - title: Links
     children:
@@ -52,5 +62,6 @@ docs:
         url: https://www.linkedin.com/company/orthogonal-rel/
       - title: "GitHub"
         url: https://github.com/orel-group
-
+      - title: "Rokwire"
+        url: https://rokwire.org/
      
