@@ -12,7 +12,7 @@ sidebar:
 ## Open Positions for Fall 2021 - Spring 2022!
 Please see our [Get Involved](https://orel-group.github.io/join/) page to view internships and other ways to join our lab! 
 
-#### Lab News 
+## Lab News 
 - 09-13 Talk on Gibsonian Information at BICA conference at IS4SI 2021.
 - 09-03 Website Landing page update is underway!
 - [07-28](https://cognitivesciencesociety.org/cogsci-affinity-discussion-groups/) OREL hosts Discussion Group at CogSci 2021 "Trajectories in Cognitive Science" - ft Jesse Parent, Bradly Alicea, and Avery Lim
