@@ -12,7 +12,7 @@ title: "Ethics + Tech + Society Team"
 Founded officially in January 2021, the Ethics Team at Orthogonal Research and Education Lab has its roots in cross-disciplinary collaborations on law and technology. 
 We examine various facets of technology's ever-expansive interfacing with society.
 Topics of interest include: AI Ethics, AI Safety, law (particularly AI interpretability / explainability and legilation), shared risk, technology-education access, and neuroethics. 
-- See the Opportunities page to get involved. 
+- See **[OREL's Get Involved website](https://orel-group.github.io/join/)** for the most up to date list of opportunites. 
 
 
 ## News
