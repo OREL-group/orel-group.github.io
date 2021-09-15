@@ -18,7 +18,7 @@ docs:
  
   - title: OREL Project Sites
     children:
-      - title: "OREL Homepage"
+      - title: "OREL Lab Homepage"
         url: https://orthogonal-research.weebly.com
       - title: "Representational Brains & Phenotypes"
         url: https://representational-brains-phenotypes.weebly.com/
@@ -27,13 +27,14 @@ docs:
       - title: "Cognition Futures"
         url: https://cognitionfutures.github.io
       - title: "AI, Ethics, and Society"
-        url: /ethics/  
-      - title: "Data Reuse Initiative"
-        url: https://data-reuse.weebly.com/   
+        url: /ethics/   
       - title: "Google Summer of Code"
         url: https://orthogonal-research.weebly.com/google-summer-of-code.html          
       - title: "OpenWorm: DevoWorm"
-        url: http://devoworm.weebly.com/          
+        url: http://devoworm.weebly.com/    
+      - title: "Data Reuse Initiative"
+        url: https://data-reuse.weebly.com/  
+        
         
   - title: Our Team + Open Positions
     children:      
