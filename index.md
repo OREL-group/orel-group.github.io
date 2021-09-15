@@ -15,9 +15,9 @@ Please see our [Get Involved](https://orel-group.github.io/join/) page to view i
 ## Lab News 
 - [09-13](https://summit-2021.is4si.org/schedule/apc-schedule) OREL talk on Gibosonian Information at 2021 Summit of the International Society for the Study of Information (IS4SI) Biologically Inspired Cognitive Architectures (BICA) workshop. 
 - 09-03 Website Landing page update is underway!
-- [07-28](https://cognitivesciencesociety.org/cogsci-affinity-discussion-groups/) OREL hosts Discussion Group at CogSci 2021 "Trajectories in Cognitive Science"
+- [07-28](https://cognitivesciencesociety.org/cogsci-affinity-discussion-groups/) OREL Cognition Futures team hosts Discussion Group at CogSci 2021 "Trajectories in Cognitive Science"
 - [07-09](https://culturalevolutionsociety.org/) Multiple OREL presentations at Cultural Evolution Society Conference 2021.
-- 07-05 OREL members participate in Neuromatch Academy Computatoinal Neuroscience and Deep Learning courses! Congratulations Krishna Katyal on being a DL TA!
+- [07-05](https://academy.neuromatch.io/) OREL members participate in Neuromatch Academy Computational Neuroscience and Deep Learning courses! Congratulations Krishna Katyal on being a DL TA!
  - 05-17 Congratualtions Jesse Parent and Avery Lim on being awarded Research Grants via Effective Altruism Learning and Research (Artificial Intelligence)
 - [05-15](https://emergentinteraction.github.io/) OREL presents at ACM CHI 2021 Workshop on Emergent Interaction: "Allostasis Machines: a model for understanding internal states and technological environments"
 - 04-10 Princeton Envision 2021: Research Presentation "Cognition Futures & FrontierMap" by Cognition Futures team
