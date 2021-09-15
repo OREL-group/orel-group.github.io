@@ -13,11 +13,11 @@ sidebar:
 Please see our [Get Involved](https://orel-group.github.io/join/) page to view internships and other ways to join our lab! 
 
 ## Lab News 
-- 09-13 Talk on Gibsonian Information at BICA conference at IS4SI 2021.
+- [09-13](https://summit-2021.is4si.org/schedule/apc-schedule) OREL talk on Gibosonian Information at 2021 Summit of the International Society for the Study of Information (IS4SI) Biologically Inspired Cognitive Architectures (BICA) workshop. 
 - 09-03 Website Landing page update is underway!
-- [07-28](https://cognitivesciencesociety.org/cogsci-affinity-discussion-groups/) OREL hosts Discussion Group at CogSci 2021 "Trajectories in Cognitive Science" - ft Jesse Parent, Bradly Alicea, and Avery Lim
+- [07-28](https://cognitivesciencesociety.org/cogsci-affinity-discussion-groups/) OREL hosts Discussion Group at CogSci 2021 "Trajectories in Cognitive Science"
  - 05-17 Congratualtions Jesse Parent and Avery Lim on being awarded Research Grants via Effective Altruism Learning and Research (Artificial Intelligence)
-- [05-15](https://emergentinteraction.github.io/) ACM CHI 2021 Workshop on Emergent Interaction: "Allostasis Machines: a model for understanding internal states and technological environments"
+- [05-15](https://emergentinteraction.github.io/) OREL presents at ACM CHI 2021 Workshop on Emergent Interaction: "Allostasis Machines: a model for understanding internal states and technological environments"
 - 05-01 Accepted at Cultural Evolution Society Conference 2021: "Charting the Future of Academic Fields with Cultural Evolutionary Trajectories"
 - 04-10 Princeton Envision: Research Presentation "Cognition Futures & FrontierMap" 
 - [04-09](https://twitter.com/JesParent/status/1379489919228379136) ACM's New York Celebration of Women in Computing 2021: AI Ethics (Research Presentation); Male Allies breakout session (Moderator); Thinking About Gradschool (Panelist)
