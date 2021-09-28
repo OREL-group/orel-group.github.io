@@ -13,14 +13,14 @@ sidebar:
 Please see our [Get Involved](https://orel-group.github.io/join/) page to view internships and other ways to join our lab! 
 
 ## Lab News 
-- [09-13](https://summit-2021.is4si.org/schedule/apc-schedule) OREL talk on Gibosonian Information at 2021 Summit of the International Society for the Study of Information (IS4SI) Biologically Inspired Cognitive Architectures (BICA) workshop. 
+- [09-13](https://summit-2021.is4si.org/schedule/apc-schedule) "Gibsonian Information: a perceptual approach to modeling the quantitative observer" at 2021 Summit of the International Society for the Study of Information (IS4SI) Biologically Inspired Cognitive Architectures (BICA) workshop
 - 09-03 Website Landing page update is underway!
-- [07-28](https://cognitivesciencesociety.org/cogsci-affinity-discussion-groups/) OREL Cognition Futures team hosts Discussion Group at CogSci 2021 "Trajectories in Cognitive Science"
+- [07-28](https://cognitivesciencesociety.org/cogsci-affinity-discussion-groups/) "Trajectories in Cognitive Science" Discussion Group at CogSci 2021, hosted and organized by OREL's Congition Futures team.  
 - [07-09](https://culturalevolutionsociety.org/) Multiple OREL presentations at Cultural Evolution Society Conference 2021.
 - [07-05](https://academy.neuromatch.io/) OREL members participate in Neuromatch Academy Computational Neuroscience and Deep Learning courses! Congratulations Krishna Katyal on being a DL TA!
  - 05-17 Congratualtions Avery Lim and Jesse Parent on being awarded Research Grants via Effective Altruism Learning and Research (Artificial Intelligence)
-- [05-15](https://emergentinteraction.github.io/) OREL presents at ACM CHI 2021 Workshop on Emergent Interaction: "Allostasis Machines: a model for understanding internal states and technological environments"
-- 04-10 Princeton Envision 2021: Research Presentation "Cognition Futures & FrontierMap" by Cognition Futures team
+- [05-15](https://emergentinteraction.github.io/) "Allostasis Machines: a model for understanding internal states and technological environments", OREL presents at ACM CHI 2021 Workshop on Emergent Interaction.
+- 04-10 Princeton Envision 2021: "Cognition Futures & FrontierMap", Innaugural Research Symposium by OREL's Cognition Futures team.
 - [04-09](https://twitter.com/JesParent/status/1379489919228379136) OREL's Society Ethics Tech team presents at ACM's New York Celebration of Women in Computing 2021
 - [03-24](https://www.researchgate.net/publication/350357270_Frontier_Map_and_Cognition_Futures_Embodied_Intelligence_A_Survey_of_Computational_Models_of_Cognition) International Workshop on Embodied Intelligence: Workshop Flash Talks and Interview for IEEE Embodied Intelligence podcast: Bradly Alicea, Stefan Dvoretskii, and Jesse Parent
 - [03-21](https://www.sciencedirect.com/science/article/abs/pii/S0303264721000629) "Periodicity in the Embryo" accepted for publication in Biosystems 204 in June
