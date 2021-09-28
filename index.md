@@ -17,7 +17,7 @@ Please see our [Get Involved](https://orel-group.github.io/join/) page to view i
 - 09-03 Website Landing page update is underway!
 - [07-28](https://cognitivesciencesociety.org/cogsci-affinity-discussion-groups/) "Trajectories in Cognitive Science" Discussion Group at CogSci 2021, hosted and organized by OREL's Congition Futures team.  
 - [07-09](https://culturalevolutionsociety.org/) Multiple OREL presentations at Cultural Evolution Society Conference 2021.
-- [07-05](https://academy.neuromatch.io/) OREL members participate in Neuromatch Academy Computational Neuroscience and Deep Learning courses! Congratulations Krishna Katyal on being a DL TA!
+- [07-05](https://academy.neuromatch.io/) Neuromatch Academy: Computational Neuroscience and Deep Learning courses - OREL members participate, and congratulations Krishna Katyal on being a DL TA!
  - 05-17 Congratualtions Avery Lim and Jesse Parent on being awarded Research Grants via Effective Altruism Learning and Research (Artificial Intelligence)
 - [05-15](https://emergentinteraction.github.io/) "Allostasis Machines: a model for understanding internal states and technological environments", OREL presents at ACM CHI 2021 Workshop on Emergent Interaction.
 - 04-10 Princeton Envision 2021: "Cognition Futures & FrontierMap", Innaugural Research Symposium by OREL's Cognition Futures team.
