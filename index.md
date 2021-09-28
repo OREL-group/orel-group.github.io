@@ -18,11 +18,11 @@ Please see our [Get Involved](https://orel-group.github.io/join/) page to view i
 - [07-28](https://cognitivesciencesociety.org/cogsci-affinity-discussion-groups/) OREL Cognition Futures team hosts Discussion Group at CogSci 2021 "Trajectories in Cognitive Science"
 - [07-09](https://culturalevolutionsociety.org/) Multiple OREL presentations at Cultural Evolution Society Conference 2021.
 - [07-05](https://academy.neuromatch.io/) OREL members participate in Neuromatch Academy Computational Neuroscience and Deep Learning courses! Congratulations Krishna Katyal on being a DL TA!
- - 05-17 Congratualtions Jesse Parent and Avery Lim on being awarded Research Grants via Effective Altruism Learning and Research (Artificial Intelligence)
+ - 05-17 Congratualtions Avery Lim and Jesse Parent on being awarded Research Grants via Effective Altruism Learning and Research (Artificial Intelligence)
 - [05-15](https://emergentinteraction.github.io/) OREL presents at ACM CHI 2021 Workshop on Emergent Interaction: "Allostasis Machines: a model for understanding internal states and technological environments"
 - 04-10 Princeton Envision 2021: Research Presentation "Cognition Futures & FrontierMap" by Cognition Futures team
 - [04-09](https://twitter.com/JesParent/status/1379489919228379136) OREL's Society Ethics Tech team presents at ACM's New York Celebration of Women in Computing 2021
-- [03-24](https://www.researchgate.net/publication/350357270_Frontier_Map_and_Cognition_Futures_Embodied_Intelligence_A_Survey_of_Computational_Models_of_Cognition) International Workshop on Embodied Intelligence: Workshop Flash Talks and Interview for IEEE Embodied Intelligence podcast: Bradly Alicea, Stephan 
+- [03-24](https://www.researchgate.net/publication/350357270_Frontier_Map_and_Cognition_Futures_Embodied_Intelligence_A_Survey_of_Computational_Models_of_Cognition) International Workshop on Embodied Intelligence: Workshop Flash Talks and Interview for IEEE Embodied Intelligence podcast: Bradly Alicea, Stefan Dvoretskii, and Jesse Parent
 - [03-21](https://www.sciencedirect.com/science/article/abs/pii/S0303264721000629) "Periodicity in the Embryo" accepted for publication in Biosystems 204 in June
 
 2020
@@ -30,6 +30,6 @@ Please see our [Get Involved](https://orel-group.github.io/join/) page to view i
 - 12-06 OREL members attending NeurIPS 2020 and MAIN2020
 - 10-01 Jesse Parent to lead "Cognition Futures" research team within OREL
 - [08-11](https://cbmm.mit.edu/summer-school/2020/attendees) OREL members attend MIT's Center for Brains, Minds, and Machines Summer Course 2020
-- [07-31](https://github.com/jesparent/Proposal-Materials/tree/master/Neuromatch) OREL members attend Neuormatch Academy, Bradly Alicea mentors projects.
+- [07-31](https://github.com/jesparent/Proposal-Materials/tree/master/Neuromatch) OREL members attend Neuormatch Academy, Bradly Alicea serves as Projects Mentor.
 - [07-15](https://orthogonal-research.weebly.com/) Jesse Parent starts as Lab Manager for Orthogonal Research & Education Lab!
 
