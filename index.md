@@ -15,6 +15,7 @@ Please see our [Get Involved](https://orel-group.github.io/join/) page to view i
 ## Lab News 
 - [09-13](https://summit-2021.is4si.org/schedule/apc-schedule) "Gibsonian Information: a perceptual approach to modeling the quantitative observer" at 2021 Summit of the International Society for the Study of Information (IS4SI) Biologically Inspired Cognitive Architectures (BICA) workshop
 - 09-03 Website Landing page update is underway!
+- [08-17](https://jesparent.github.io/nsf) - Congratulations Jesse Parent on acceptance to the National Science Foundation's CISE Graduate Fellowship!
 - [07-28](https://cognitivesciencesociety.org/cogsci-affinity-discussion-groups/) "Trajectories in Cognitive Science" Discussion Group at CogSci 2021, hosted and organized by OREL's Congition Futures team
 - [07-09](https://culturalevolutionsociety.org/) Cultural Evolution Society Conference 2021, multiple OREL presentations
 - [07-05](https://academy.neuromatch.io/) Neuromatch Academy: Computational Neuroscience and Deep Learning courses - OREL members participate, and congratulations Krishna Katyal on being a DL TA!
