@@ -11,10 +11,10 @@ sidebar:
 
 ## Open Positions for Fall 2021 - Spring 2022!
 Please see our [Get Involved](https://orel-group.github.io/join/) page to view internships and other ways to join our lab! 
-### Special Event: UALbany CURCE Hybrid Fall Fair
-For UAlbany students, please join our virutal Fall Fair table at [https://meet.jit.si/UAlbany-Fair-OREL](https://meet.jit.si/UAlbany-Fair-OREL)
+ 
 
 ## Lab News 
+- 09-27 OREL invited to University at Albany, SUNY's CURCE Hybrid Fall Fair
 - [09-13](https://summit-2021.is4si.org/schedule/apc-schedule) "Gibsonian Information: a perceptual approach to modeling the quantitative observer" at 2021 Summit of the International Society for the Study of Information (IS4SI) Biologically Inspired Cognitive Architectures (BICA) workshop
 - 09-03 Website Landing page update is underway!
 - [08-17](https://jesparent.github.io/nsf) - Congratulations Jesse Parent on acceptance to the National Science Foundation's CISE Graduate Fellowship!
