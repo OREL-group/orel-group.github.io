@@ -14,6 +14,12 @@ Please see our [Get Involved](https://orel-group.github.io/join/) page to view i
  
 
 ## Lab News 
+- [02-07](https://nycwic.org/) Society Ethics & Technology team at OREL is accepted at ACM's New York Celebration of Women in Computing 2022!
+- 02-01 Welcome 2022 Spring Interns!
+- 01-15 OREL solidifies partnership with University at Albany, SUNY's undergraduate research center
+
+2021
+- 12-02 OREL presents 4 flash talks at Neuromatch 4.0
 - 09-27 OREL invited to University at Albany, SUNY's CURCE Hybrid Fall Fair
 - [09-13](https://summit-2021.is4si.org/schedule/apc-schedule) "Gibsonian Information: a perceptual approach to modeling the quantitative observer" at 2021 Summit of the International Society for the Study of Information (IS4SI) Biologically Inspired Cognitive Architectures (BICA) workshop
 - 09-03 Website Landing page update is underway!
