@@ -14,6 +14,12 @@ Please see our [Get Involved](https://orel-group.github.io/join/) page to view i
  
 
 ## Lab News 
+- [06-10]() 2022 Annual International Conference on Brain-Inspired Cognitive Architectures for Artificial Intelligence for our paper "
+- [06-03]() Bradly Alicea presents at GSoC Mentor Summit
+- [05-20]() Congratulations to Himanshu, Brian McCorkle, and S. Hussain for being a part of OREL's 2022 Google Summer of Code seeason (supported by the International Neuroinformatics Coordinating Facility). They will be mentored by Dr Bradly Alicea and Jesse Parent. 
+- [04-23]() Multiple presentations at The International Conference on Embodied Intelligence 2022.
+- [04-19](https://nycwic.org/) OREL presents at New York Celebration of Women in Computing 2022. 
+- [02-25]() 
 - [02-07](https://nycwic.org/) Society Ethics & Technology team at OREL is accepted at ACM's New York Celebration of Women in Computing 2022!
 - 02-01 Welcome 2022 Spring Interns!
 - 01-15 OREL solidifies partnership with University at Albany, SUNY's undergraduate research center
