@@ -98,7 +98,11 @@ __April__  [Epistomological Directories (EDs) for Research Development and Educa
 
 __April__ Conference: Neuormatch Academy (NM1): multiple lab presentations.    
 
+
 ### 2019    
+__September__  Conference presentation: Stefan Dvoretskii presented on Modeling Neural Development with Braitenberg Vehicles. _INCF 
+Neuroinformatics Conference_, University of Warsaw, Poland.   
+
 __August__  Publication: [Cultural association based on machine learning for team formation](https://arxiv.org/abs/1908.00234). _Proceedings of the IEEE Conference on Computing, Communication, Control and Automation_.    
 
 __Summer__  Congratulations to Stefan Dvoretskii for being selected as Google Summer of Code Scholars (sponsored by [INCF](https://incf.org)), and Ziyi Gong, Ankit Gupta, and Jesse Parent for being selected as Open-source Development Scholars. They will be mentored by Dr Bradly Alicea.    
@@ -106,4 +110,10 @@ __Summer__  Congratulations to Stefan Dvoretskii for being selected as Google Su
 ### 2018    
 __November__  Publication: [Origins of the Embryo: Self-organization through cybernetic regulation](https://www.sciencedirect.com/science/article/abs/pii/S0303264718302065?via%3Dihub). _Biosystems_, 173, 73-82.  
 
-__Summer__  Congratulations to Sam Felder and Cheng-Hsun (Jim) Hsueh for being selected as Google Summer of Code Scholars (sponsored by [INCF](https://incf.org)). They will be mentored by Dr Bradly Alicea.    
+__Summer__  Congratulations to Sam Felder and Cheng-Hsun (Jim) Hsueh for being selected as Google Summer of Code Scholars (sponsored by [INCF](https://incf.org)). They will be mentored by Dr Bradly Alicea.  
+
+
+### Other Milestones
+Robert Stone and Bradly Alicea. The Foundations of Control and Cognition: The Every Good Regulator Theorem. _Figshare_, 10.6084/m9.figshare. 1559095.v3
+
+
