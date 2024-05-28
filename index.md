@@ -113,7 +113,14 @@ __November__  Publication: [Origins of the Embryo: Self-organization through cyb
 __Summer__  Congratulations to Sam Felder and Cheng-Hsun (Jim) Hsueh for being selected as Google Summer of Code Scholars (sponsored by [INCF](https://incf.org)). They will be mentored by Dr Bradly Alicea.  
 
 
-### Other Milestones
+### Foundations
 Robert Stone and Bradly Alicea. The Foundations of Control and Cognition: The Every Good Regulator Theorem. _Figshare_, 10.6084/m9.figshare. 1559095.v3
 
+Bradly Alicea. Data Reuse as a Prisoner's Dilemma: the social capital of open science. _bioRxiv_, doi:10.1101/093518.
+
+Bradly Alicea. The ‘Machinery’ of Biocomplexity: understanding non-optimal architectures in biological systems. _arXiv_, 1104.3559.
+
+Bradly Alicea. Contextual and Structural Representations of Market-mediated Economic Value. _arXiv_, 1403.7021 [q-fin.GN].
+
+Bradly Alicea. Animal-oriented Virtual Environments: illusion, dilation, and discovery. _F1000 Research_, 3:202.
 
