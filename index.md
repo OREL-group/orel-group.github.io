@@ -25,6 +25,7 @@ __March__  Preprint: [A Primer on Gibsonian Information](https://arxiv.org/abs/2
 
 __January__  Publication: [Super-performance: sampling, planning, and ecological information](http://link.springer.com/chapter/10.1007/978-3-031-50381-8_5). _Studies in Computational Intelligence_, 1130, 31-45.     
 
+
 ### 2023     
 __October__  Publication: [Intelligence Offloading and the Neurosimulation of Developmental Agents](https://iopscience.iop.org/article/10.1088/1757-899X/1292/1/012019). _International Workshop on Embodied Intelligence, IOP Conference Series: Materials Science and Engineering_, 1292, 012019.     
 
@@ -41,6 +42,7 @@ __April__  Publication: [Embodied Cognitive Morphogenesis as a Route to Intellig
 __January__  Publication: [Layers, folds, and semi-neuronal information processing](https://www.sciencedirect.com/science/article/pii/S1877050922017811). _Procedia Computer Science_, 213, 443-452.    
 
 __January__  Publication: [Flipping the Switch on Local Exploration: Genetic Algorithms with Reversals](https://arxiv.org/abs/2202.00912). _Lecture Notes in Networks and Systems_, 608, 719–734.    
+
 
 ### 2022    
 __November__  [Meta-brain Models: biologically-inspired cognitive agents](https://iopscience.iop.org/article/10.1088/1757-899X/1261/1/012019). _IOP Conference Series: Materials Science and Engineering_, 1261, 012019.   
@@ -69,6 +71,7 @@ __February__ Publication: [Gibsonian Information: a new approach to quantitative
 
 __January__ OREL solidifies partnership with University at Albany, SUNY's undergraduate research center    
 
+
 ### 2021
 __December__ Neuromatch Academy (NM4): multiple lab presentations.    
 
@@ -85,6 +88,7 @@ __May (15)__  Allostasis Machines: a model for understanding internal states and
 __April (9)__  Challenges and Opportunities in Integrating Critical Voices in AI Ethics: Towards a Unified Ethical Framework for AI. [New York Celebration of Women in Computing](https://nycwic.org/) 2022.     
 
 __April (23)__  Conference: Embodied Intelligence Workshop 2021: multiple lab presentations. [Medium post](https://medium.com/orel-group/eai-workshop-and-recent-saturday-morning-neurosim-conversations-34f170503f03)     
+
 
 ### 2020    
 __December (11)__  (https://medium.com/orel-group/observer-dependent-models-a-talk-at-the-philosophers-web-cafe-4c503cd47778) Presentation by Bradly Alicea and Moderator Jesse Parent in "Observer-Dependent Models" talk at Philosopher's Web Café.   
