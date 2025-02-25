@@ -15,6 +15,8 @@ Please see our [Get Involved](https://orel-group.github.io/join/) page to view i
 ## Lab News   
 
 ### 2024   
+__December__  [Continual Developmental Neurosimulation Using Embodied Computational Agents](https://iopscience.iop.org/article/10.1088/1757-899X/1321/1/012013).  _IOP Conference Series: Materials Science and Engineering_, 1321, 012013.
+
 __Summer__  Congratulations to Sarrah Bastawala for being  selected as Google Summer of Code Scholars (sponsored by [INCF](https://incf.org)), and Adama Koita and Shubham Soni for being selected as Open-source Development Scholars. They will be mentored by Dr Bradly Alicea and Jesse Parent.     
 
 __April__  Conference: Embodied Intelligence Workshop 2024: multiple lab presentations. [Medium post](https://medium.com/orel-group/its-time-for-embodied-intelligence-2024-570e3312b20b)     
@@ -42,6 +44,7 @@ __January__  Publication: [Flipping the Switch on Local Exploration: Genetic Alg
 
 ### 2022    
 __November__  [Meta-brain Models: biologically-inspired cognitive agents](https://iopscience.iop.org/article/10.1088/1757-899X/1261/1/012019). _IOP Conference Series: Materials Science and Engineering_, 1261, 012019.   
+
 __September (25)__ Conference: Neuromatch Academy (NM5): multiple lab presentations.   
 
 __Spetember (22)__  Conference: WeRobot: multiple lab posters. [Medium post](https://medium.com/orel-group/reflections-and-directions-werobot-2022-retrospective-a1a0818343d9).   
