@@ -15,7 +15,7 @@ Please see our [Get Involved](https://orel-group.github.io/join/) page to view i
 ## Lab News   
 
 ### 2024   
-__December__  [Continual Developmental Neurosimulation Using Embodied Computational Agents](https://iopscience.iop.org/article/10.1088/1757-899X/1321/1/012013).  _IOP Conference Series: Materials Science and Engineering_, 1321, 012013.
+__December__  Publication: [Continual Developmental Neurosimulation Using Embodied Computational Agents](https://iopscience.iop.org/article/10.1088/1757-899X/1321/1/012013).  _IOP Conference Series: Materials Science and Engineering_, 1321, 012013.
 
 __Summer__  Congratulations to Sarrah Bastawala for being  selected as Google Summer of Code Scholars (sponsored by [INCF](https://incf.org)), and Adama Koita and Shubham Soni for being selected as Open-source Development Scholars. They will be mentored by Dr Bradly Alicea and Jesse Parent.     
 
